@@ -16,7 +16,7 @@ SCOPES = ['https://www.googleapis.com/auth/documents.readonly']
 
 # The ID of the google doc with the course content.
 #DOCUMENT_ID = '1kEk1FPgjX3gjoueXbodY-5CaEGM9ah69MRmjYbXT7Lo'
-DOCUMENT_ID = '1x7z1FRJSKf2ABNNXQC41xwd73cU767A6m-9EDGxDMlU'
+DOCUMENT_ID = '1TpQyW9hpD5rpC14jOVge-ci3MMrLVZpqN0Mn3bRKSqk'
 
 NEW_TAB_LINKS = [
     r'https://community.p2pu.org/t/introduce-yourself/1571/',
